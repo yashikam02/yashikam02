@@ -5,25 +5,75 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Yashika%20Mann&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Researcher%20%7C%20Generative%20AI&descAlignY=58&descSize=20"/>
 
-🧠ABOUT ME
 
-👩‍💻Profile
+# 🧠 ABOUT ME
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Researcher;Generative+AI+Enthusiast;Building+Real-World+AI+Systems;NLP+%7C+Computer+Vision+%7C+RAG"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 👩‍💻 Profile
+
+```yaml id="f5a0bi"
 Name: Yashika Mann
 Location: Delhi, India
+Role Interested in:Data Scientist, AI & ML Engineer, SDEs
+Focus: Building Intelligent AI Systems
+```
 
-🎓Education:
-  Degree: B.Tech in Electronics & Communication Engineering (AI)
-  University: IGDTUW
-  CGPA: 8.54
+</td>
 
-🚀Focus Areas:
-  - Generative AI
-  - NLP & RAG Systems
-  - Recommendation Systems
-  - Deepfake Detection
-  - Computer Vision
-  - AI Agents
+<td width="50%">
+
+## 🎓 Education
+
+```yaml id="p1x0d7"
+Degree: B.Tech ECE-AI
+University: IGDTUW
+CGPA: 8.54
+Graduation: 2026
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Focus Areas
+
+<div align="center">
+
+| 🤖 AI & ML    | 🧠 NLP                 | 👁️ Computer Vision |
+| ------------- | ---------------------- | ------------------- |
+| Generative AI | NLP & RAG Systems      | Deepfake Detection  |
+| AI Agents     | Recommendation Systems | Multimedia AI       |
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+```diff
++ Building Real-World AI Applications
++ Exploring LLM & RAG Architectures
++ Developing Multimodal AI Pipelines
++ Researching Intelligent Recommendation Systems
+```
+
+</div>
+
 
 🚀 Tech Arsenal
 <div align="center">
