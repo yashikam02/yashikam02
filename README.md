@@ -5,15 +5,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Yashika%20Mann&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Researcher%20%7C%20Generative%20AI&descAlignY=58&descSize=20"/>
 
-🧠 About Me
-Name: Yashika Mann
-Location: Delhi, India
-Education: B.Tech ECE-AI @ IGDTUW
-CGPA: 8.54
-Focus Areas:
-  - Generative AI
-  - NLP & RAG Systems
-  - Recommendation Systems
-  - Deepfake Detection
-  - Computer Vision
-  - AI Agents
+ 🧠 About Me
+<table> <tr> <td width="50%">
+👩‍💻 Profile
+🎓 B.Tech ECE-AI @ IGDTUW
+📍 Delhi, India
+📊 CGPA: 8.54
+🤖 AI & ML Enthusiast
+</td> <td width="50%">
+🚀 Interests
+Generative AI
+NLP & RAG Systems
+Recommendation Systems
+Deepfake Detection
+Computer Vision
+AI Agents
+</td> </tr> </table>
